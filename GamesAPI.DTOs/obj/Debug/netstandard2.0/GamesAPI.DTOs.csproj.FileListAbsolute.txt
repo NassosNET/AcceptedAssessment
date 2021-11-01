@@ -8,3 +8,13 @@ D:\VSTS\GamesAPI.Solution\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.A
 D:\VSTS\GamesAPI.Solution\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.csproj.CoreCompileInputs.cache
 D:\VSTS\GamesAPI.Solution\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.dll
 D:\VSTS\GamesAPI.Solution\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.pdb
+D:\My Repositories\AcceptedAssessment\AcceptedAssessment\GamesAPI.DTOs\bin\Debug\netstandard2.0\GamesAPI.DTOs.deps.json
+D:\My Repositories\AcceptedAssessment\AcceptedAssessment\GamesAPI.DTOs\bin\Debug\netstandard2.0\GamesAPI.DTOs.dll
+D:\My Repositories\AcceptedAssessment\AcceptedAssessment\GamesAPI.DTOs\bin\Debug\netstandard2.0\GamesAPI.DTOs.pdb
+D:\My Repositories\AcceptedAssessment\AcceptedAssessment\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.csproj.AssemblyReference.cache
+D:\My Repositories\AcceptedAssessment\AcceptedAssessment\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Repositories\AcceptedAssessment\AcceptedAssessment\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.AssemblyInfoInputs.cache
+D:\My Repositories\AcceptedAssessment\AcceptedAssessment\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.AssemblyInfo.cs
+D:\My Repositories\AcceptedAssessment\AcceptedAssessment\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.csproj.CoreCompileInputs.cache
+D:\My Repositories\AcceptedAssessment\AcceptedAssessment\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.dll
+D:\My Repositories\AcceptedAssessment\AcceptedAssessment\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.pdb

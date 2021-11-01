@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ixQ+VLk24Tw3fucAFyMryahYjOWPBdTHhCR0Xg7C/aV0OjFN6sJGDge4NWEjt8uAgVobXAegRniWCplt6hmNg==",
+  "dgSpecHash": "LEq/CH6r1vu5alXZ2J6xyIR1+veCB5vLAkmbaQc0FOYnHcZX35onmChL69y4UPEUg5qhtRa4MOQs6CZpoVx3+A==",
   "success": true,
-  "projectFilePath": "D:\\VSTS\\GamesAPI.Solution\\GamesAPI.DTOs\\GamesAPI.DTOs.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\nreyzidis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI.DTOs\\GamesAPI.DTOs.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

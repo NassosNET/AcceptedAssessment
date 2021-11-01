@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSTS\\GamesAPI.Solution\\GamesAPI\\GamesAPI.csproj": {}
+    "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI\\GamesAPI.csproj": {}
   },
   "projects": {
-    "D:\\VSTS\\GamesAPI.Solution\\GamesAPI.DB\\GamesAPI.DB.csproj": {
+    "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI.DB\\GamesAPI.DB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSTS\\GamesAPI.Solution\\GamesAPI.DB\\GamesAPI.DB.csproj",
+        "projectUniqueName": "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI.DB\\GamesAPI.DB.csproj",
         "projectName": "GamesAPI.DB",
-        "projectPath": "D:\\VSTS\\GamesAPI.Solution\\GamesAPI.DB\\GamesAPI.DB.csproj",
-        "packagesPath": "C:\\Users\\nreyzidis\\.nuget\\packages\\",
-        "outputPath": "D:\\VSTS\\GamesAPI.Solution\\GamesAPI.DB\\obj\\",
+        "projectPath": "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI.DB\\GamesAPI.DB.csproj",
+        "packagesPath": "C:\\Users\\reyzi\\.nuget\\packages\\",
+        "outputPath": "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI.DB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\nreyzidis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Users\\reyzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -33,17 +28,8 @@
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/bkgkZ2BQGyrTh6lTHFY6FhokW5oeg9rf3a5UCKfUivWv3Zwfpv/api": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/086b41a6-9186-4b57-9b56-c1a8d758d7e4/_packaging/InDetailNugetFeed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/ControlCenter/_packaging/ControlCenterFeed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/_packaging/InDetailV2Feed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/_packaging/OverprintFeed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/_packaging/ValueChatFeed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -68,6 +54,16 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -89,50 +85,36 @@
         }
       }
     },
-    "D:\\VSTS\\GamesAPI.Solution\\GamesAPI.DTOs\\GamesAPI.DTOs.csproj": {
+    "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI.DTOs\\GamesAPI.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSTS\\GamesAPI.Solution\\GamesAPI.DTOs\\GamesAPI.DTOs.csproj",
+        "projectUniqueName": "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI.DTOs\\GamesAPI.DTOs.csproj",
         "projectName": "GamesAPI.DTOs",
-        "projectPath": "D:\\VSTS\\GamesAPI.Solution\\GamesAPI.DTOs\\GamesAPI.DTOs.csproj",
-        "packagesPath": "C:\\Users\\nreyzidis\\.nuget\\packages\\",
-        "outputPath": "D:\\VSTS\\GamesAPI.Solution\\GamesAPI.DTOs\\obj\\",
+        "projectPath": "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI.DTOs\\GamesAPI.DTOs.csproj",
+        "packagesPath": "C:\\Users\\reyzi\\.nuget\\packages\\",
+        "outputPath": "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\nreyzidis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Users\\reyzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netstandard2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/bkgkZ2BQGyrTh6lTHFY6FhokW5oeg9rf3a5UCKfUivWv3Zwfpv/api": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/086b41a6-9186-4b57-9b56-c1a8d758d7e4/_packaging/InDetailNugetFeed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/ControlCenter/_packaging/ControlCenterFeed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/_packaging/InDetailV2Feed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/_packaging/OverprintFeed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/_packaging/ValueChatFeed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -143,16 +125,8 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
-          "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
-            }
-          },
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "imports": [
             "net461",
             "net462",
@@ -163,31 +137,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\VSTS\\GamesAPI.Solution\\GamesAPI\\GamesAPI.csproj": {
+    "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI\\GamesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSTS\\GamesAPI.Solution\\GamesAPI\\GamesAPI.csproj",
+        "projectUniqueName": "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI\\GamesAPI.csproj",
         "projectName": "GamesAPI",
-        "projectPath": "D:\\VSTS\\GamesAPI.Solution\\GamesAPI\\GamesAPI.csproj",
-        "packagesPath": "C:\\Users\\nreyzidis\\.nuget\\packages\\",
-        "outputPath": "D:\\VSTS\\GamesAPI.Solution\\GamesAPI\\obj\\",
+        "projectPath": "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI\\GamesAPI.csproj",
+        "packagesPath": "C:\\Users\\reyzi\\.nuget\\packages\\",
+        "outputPath": "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\nreyzidis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Users\\reyzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -196,27 +170,18 @@
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/bkgkZ2BQGyrTh6lTHFY6FhokW5oeg9rf3a5UCKfUivWv3Zwfpv/api": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/086b41a6-9186-4b57-9b56-c1a8d758d7e4/_packaging/InDetailNugetFeed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/ControlCenter/_packaging/ControlCenterFeed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/_packaging/InDetailV2Feed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/_packaging/OverprintFeed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/BELInformationSystems/_packaging/ValueChatFeed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\VSTS\\GamesAPI.Solution\\GamesAPI.DB\\GamesAPI.DB.csproj": {
-                "projectPath": "D:\\VSTS\\GamesAPI.Solution\\GamesAPI.DB\\GamesAPI.DB.csproj"
+              "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI.DB\\GamesAPI.DB.csproj": {
+                "projectPath": "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI.DB\\GamesAPI.DB.csproj"
               },
-              "D:\\VSTS\\GamesAPI.Solution\\GamesAPI.DTOs\\GamesAPI.DTOs.csproj": {
-                "projectPath": "D:\\VSTS\\GamesAPI.Solution\\GamesAPI.DTOs\\GamesAPI.DTOs.csproj"
+              "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI.DTOs\\GamesAPI.DTOs.csproj": {
+                "projectPath": "D:\\My Repositories\\AcceptedAssessment\\AcceptedAssessment\\GamesAPI.DTOs\\GamesAPI.DTOs.csproj"
               }
             }
           }

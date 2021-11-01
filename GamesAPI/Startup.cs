@@ -55,8 +55,7 @@ namespace GamesAPI
                 app.UseSwagger();
                 app.UseSwaggerUI(c =>
                 {
-                    string swaggerJsonBasePath = string.IsNullOrWhiteSpace(c.RoutePrefix) ? "." : "..";
-                    c.SwaggerEndpoint($"{swaggerJsonBasePath}/swagger/v1/swagger.json", "My API");
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
 
                 });
             }
