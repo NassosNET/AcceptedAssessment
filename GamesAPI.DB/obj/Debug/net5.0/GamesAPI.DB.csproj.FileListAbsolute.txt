@@ -1,0 +1,12 @@
+D:\VSTS\GamesAPI.Solution\GamesAPI.DB\bin\Debug\net5.0\GamesAPI.DB.deps.json
+D:\VSTS\GamesAPI.Solution\GamesAPI.DB\bin\Debug\net5.0\GamesAPI.DB.dll
+D:\VSTS\GamesAPI.Solution\GamesAPI.DB\bin\Debug\net5.0\ref\GamesAPI.DB.dll
+D:\VSTS\GamesAPI.Solution\GamesAPI.DB\bin\Debug\net5.0\GamesAPI.DB.pdb
+D:\VSTS\GamesAPI.Solution\GamesAPI.DB\obj\Debug\net5.0\GamesAPI.DB.csproj.AssemblyReference.cache
+D:\VSTS\GamesAPI.Solution\GamesAPI.DB\obj\Debug\net5.0\GamesAPI.DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSTS\GamesAPI.Solution\GamesAPI.DB\obj\Debug\net5.0\GamesAPI.DB.AssemblyInfoInputs.cache
+D:\VSTS\GamesAPI.Solution\GamesAPI.DB\obj\Debug\net5.0\GamesAPI.DB.AssemblyInfo.cs
+D:\VSTS\GamesAPI.Solution\GamesAPI.DB\obj\Debug\net5.0\GamesAPI.DB.csproj.CoreCompileInputs.cache
+D:\VSTS\GamesAPI.Solution\GamesAPI.DB\obj\Debug\net5.0\GamesAPI.DB.dll
+D:\VSTS\GamesAPI.Solution\GamesAPI.DB\obj\Debug\net5.0\ref\GamesAPI.DB.dll
+D:\VSTS\GamesAPI.Solution\GamesAPI.DB\obj\Debug\net5.0\GamesAPI.DB.pdb

@@ -1,0 +1,10 @@
+D:\VSTS\GamesAPI.Solution\GamesAPI.DTOs\bin\Debug\netstandard2.0\GamesAPI.DTOs.deps.json
+D:\VSTS\GamesAPI.Solution\GamesAPI.DTOs\bin\Debug\netstandard2.0\GamesAPI.DTOs.dll
+D:\VSTS\GamesAPI.Solution\GamesAPI.DTOs\bin\Debug\netstandard2.0\GamesAPI.DTOs.pdb
+D:\VSTS\GamesAPI.Solution\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.csproj.AssemblyReference.cache
+D:\VSTS\GamesAPI.Solution\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSTS\GamesAPI.Solution\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.AssemblyInfoInputs.cache
+D:\VSTS\GamesAPI.Solution\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.AssemblyInfo.cs
+D:\VSTS\GamesAPI.Solution\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.csproj.CoreCompileInputs.cache
+D:\VSTS\GamesAPI.Solution\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.dll
+D:\VSTS\GamesAPI.Solution\GamesAPI.DTOs\obj\Debug\netstandard2.0\GamesAPI.DTOs.pdb
